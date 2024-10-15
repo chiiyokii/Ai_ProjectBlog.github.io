@@ -20,3 +20,11 @@ Dataset from kaggle we plan to use :
 
 https://www.kaggle.com/datasets/iiplutocrat45ii/painting-vs-photograph-classification-dataset
 
+
+
+
+
+
+
+
+
