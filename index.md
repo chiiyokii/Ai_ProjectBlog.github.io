@@ -7,7 +7,7 @@
 |-------------------|------------------------|
 | Ra'iarii Ollivier | Electronic engineering |
 | Antoine Mayla     | Electronic engineering |
-| Alexia Mansiat    | Mechanical engineering  |
+| Alexia Mansiat    | Mechanical engineering |
 
 
 **Here is a quick glance about what we plan to do :**
@@ -18,7 +18,7 @@ As of now, we have not decided what programming language or library we plan to u
 
 Dataset from kaggle we plan to use :
 
-https://www.kaggle.com/datasets/iiplutocrat45ii/painting-vs-photograph-classification-dataset
+[Dataset](https://www.kaggle.com/datasets/iiplutocrat45ii/painting-vs-photograph-classification-dataset)
 
 
 
